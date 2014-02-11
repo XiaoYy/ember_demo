@@ -12,5 +12,16 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
-//= require_tree .
+//= require handlebars-1.0.0
+//= require ember
+//= require ember-data
+//= require localstorage_adapter
+//= require app
+//= require router
+//= require models/todo
+//= require controllers/todos_controller
+//= require controllers/todo_controller
+//= require views/edit_todo_view
+
+
+
